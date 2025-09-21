@@ -13,8 +13,8 @@ The goal is to analyze Netflix shows and movies, track viewership trends, and cr
 - `data/netflix_cleaned.csv` → Cleaned dataset  
 - `data/top10_frequency.csv` → Top 10 most frequent titles  
 - `data/top10_score.csv` → Top 10 titles by total viewership score  
-- `notebooks/Netflix_Analysis.ipynb` → Python Colab notebook  
-- `PowerBI/Netflix_Dashboard.pbix` → Power BI dashboard
+- `notebooks/Colab_Notebook.ipynb` → Python Colab notebook  
+- `PowerBI/WALAA.pbix` → Power BI dashboard
 
 ---
 
